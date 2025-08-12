@@ -1,4 +1,5 @@
 A=20
 B=30
-c=40
-Print(A+B)
+C=40
+Print(A+B+C)
+
